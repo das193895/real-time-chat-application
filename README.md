@@ -1,1 +1,2 @@
-# real-time-chat-application
+# spring-websocket-chat
+
